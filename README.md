@@ -1,22 +1,22 @@
 ```js
-aysnc fuction EpicGamer() {
-  const Phoenix = require('200iq.js');
+aysnc fuction ZzZzZzzzz() {
+  const DeathDood = require('0iq.js');
   const chalk = require('chalk');
   
-  let doing = ['Gaming', 'Programming', 'Sleeping'];
-  let languages = ['JavaScript', 'HTML', 'CSS','NodeJS', 'Markdown'];
+  let doing = ['Gaming', 'Programming', 'Watching Anime'];
+  let languages = ['JavaScript', 'NodeJS'];
   let tools = ['Windows', 'linux', 'Dicord', 'Github'];
   
-  let working  = await Phoenix.randomize(doing, languages, tools);
+  let working  = await DeathDood.randomize(doing, languages, tools);
   
-  let Phoenix_Story1 = `Hello! I am a junior in highshool, I have a dream of joining the NYPD after college. I do this coding stuff for fun! `;
-  let Phoenix_Story2 = `I spend a lot of my time playing games with my friends, or working on the many projects that I have started! `;
-  let Phoenix_Story3 = `Right now I'm ${working[0]}, while practicing ${working[1]} on ${working[2]}`;
+  let DeathDood_Story1 = `Hello! I am a freshman in highshool, I have a dream of being a coder! `;
+  let DeathDood_Story2 = `I spend a lot of my time playing games, coding or watch anime`;
+  let DeathDood_Story3 = `Right now I'm ${working[0]}, while practicing ${working[1]} on ${working[2]}`;
   
-  console.log(chalk.red(Phoenix_Story1, Phoenix_Story2, Phoenix_Story3));
+  console.log(chalk.red(DeathDood_Story1, DeathDood_Story2, DeathDood_Story3));
   }
   
-  exports.Phoenix = EpicGamer
+  exports.DeathDood = ZzZzZzzzz
  ```
 
 <p align="center">
