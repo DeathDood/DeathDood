@@ -4,7 +4,7 @@ aysnc fuction ZzZzZzzzz() {
   const chalk = require('chalk');
   
   let doing = ['Gaming', 'Programming', 'Watching Anime'];
-  let languages = ['JavaScript', 'NodeJS', 'Python'];
+  let languages = ['JavaScript', 'NodeJS', 'Python', 'HTML', 'CSS'];
   let tools = ['Windows', 'linux', 'Dicord', 'Github'];
   
   let working  = await DeathDood.randomize(doing, languages, tools);
