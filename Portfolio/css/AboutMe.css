@@ -1,0 +1,32 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    width: 650px;
+    justify-content: space-around;
+}
+
+li {
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Antic Slab', serif;
+    background-color: #110022;
+ }
+
+.hero {
+   color: white;
+   font-size: 25px;
+    height: 100vh; /* Stretches the Section to a specific browser*/
+}
+
+
+.logo{
+    margin: 5px;
+    height: 150px;
+}
