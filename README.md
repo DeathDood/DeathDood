@@ -7,10 +7,10 @@ aysnc fuction ZzZzZzzzz() {
   let languages = ['JavaScript', 'NodeJS', 'Python', 'HTML', 'CSS'];
   let tools = ['Windows', 'linux', 'Dicord', 'Github'];
   
-  let working  = await DeathDood.randomize(doing, languages, tools);
+  let working  = await DeathDood.randomize(Making a personal website, html and css, Visual Studio Code);
   
-  let DeathDood_Story1 = `Hello! I am a freshman in highshool, I have a dream of being a coder! `;
-  let DeathDood_Story2 = `I spend a lot of my time playing games, coding or watch anime`;
+  let DeathDood_Story1 = `Hello! I am a sophmore in highshool, I have a dream of being a coder! `;
+  let DeathDood_Story2 = `I spend a lot of my time playing games, coding or watching anime`;
   let DeathDood_Story3 = `Right now I'm ${working[0]}, while practicing ${working[1]} on ${working[2]}`;
   
   console.log(chalk.red(DeathDood_Story1, DeathDood_Story2, DeathDood_Story3));
