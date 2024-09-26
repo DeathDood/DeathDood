@@ -7,9 +7,9 @@ aysnc fuction ZzZzZzzzz() {
   let languages = ['JavaScript', 'NodeJS', 'Python', 'HTML', 'CSS'];
   let tools = ['Windows', 'linux', 'Dicord', 'Github'];
   
-  let working  = await DeathDood.randomize(Making a personal website, html and css, Visual Studio Code);
+  let working  = await DeathDood.randomize(Working on JeremyCheats.CC, html and css, Visual Studio Code);
   
-  let DeathDood_Story1 = `Hello! I am a Junior in highshool, I have a dream of being a coder! `;
+  let DeathDood_Story1 = `Hello! I am a Senior in highshool, I have a dream of being a coder! `;
   let DeathDood_Story2 = `I spend a lot of my time playing games, coding or watching anime`;
   let DeathDood_Story3 = `Right now I'm ${working[0]}, while practicing ${working[1]} on ${working[2]}`;
   
