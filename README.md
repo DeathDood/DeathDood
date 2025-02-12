@@ -1,10 +1,9 @@
 <h2 align="left">Hi 👋! My name is DeathDood and I'm a Frontend developer, from Ukraine</h2>
 
-###
 <br clear="both">
 <img align="right" height="120" src="https://i.pinimg.com/originals/87/50/24/875024b5647f35a6037fb926d5f5d4f8.gif"  />
 
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -53,8 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <div align="center">
@@ -62,11 +59,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeathDood&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeathDoodsmeyhoefer/DeathDoodsmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeathDoodsmeyhoefer/DeathDoodsmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DeathDoodsmeyhoefer/DeathDoodsmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeathDood/DeathDood/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeathDood/DeathDood/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DeathDood/DeathDood/output/github-snake.svg" />
 </picture>
 ###
