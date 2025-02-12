@@ -1,13 +1,10 @@
 <h2 align="left">Hi 👋! My name is DeathDood and I'm a Frontend developer, from Ukraine</h2>
 
 ###
-
 <br clear="both">
-
 <img align="right" height="120" src="https://i.pinimg.com/originals/87/50/24/875024b5647f35a6037fb926d5f5d4f8.gif"  />
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
