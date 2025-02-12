@@ -65,9 +65,8 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeathDoodyhoefer/DeathDoodyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeathDoodyhoefer/DeathDoodyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DeathDoodyhoefer/DeathDoodyhoefer/output/github-snake.svg" />
-<img src="https://raw.githubusercontent.com/DeathDood/DeathDood/output/snake.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeathDoodsmeyhoefer/DeathDoodsmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeathDoodsmeyhoefer/DeathDoodsmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DeathDoodsmeyhoefer/DeathDoodsmeyhoefer/output/github-snake.svg" />
 </picture>
 ###
