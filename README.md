@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is DeathDood and I'm a Frontend developer, from Ukraine</h2>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 <br clear="both">
 <img align="right" height="120" src="https://i.pinimg.com/originals/87/50/24/875024b5647f35a6037fb926d5f5d4f8.gif"  />
 
